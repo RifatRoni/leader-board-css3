@@ -19,6 +19,36 @@ main{
     margin-top: 21px;
     border-radius: 5px;
 }
+
+/* Navbar add */
+.header{
+    background-color: #562EFF;
+    justify-content: center;
+    display: flex;
+}
+.header-container{
+    width:930px;
+    display: flex;
+    justify-content: space-between;
+    padding:29px;
+}
+.logo{
+    height:50px;
+    width:40px;
+}
+.profile{
+    width: 50px;
+    height:50px;
+}
+.nav-items{
+    display: flex;
+    align-items: center;
+}
+.nav-item{
+    color:white;
+    margin-right: 30px;
+
+}
 /* top players style */
 .top-players{
     margin-bottom: 30px;
